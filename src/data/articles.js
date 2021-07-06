@@ -1,0 +1,44 @@
+export default {
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 22:02:01"
+  },
+  "data": [{
+    "SHARE_USER": "40",
+    "ADD_TO_FAV_COUNT": "25",
+    "MSG_ID": "A000001",
+    "SHARE_COUNT": "43",
+    "REF_PROD": "1001",
+    "CREATE_DATE": "2021-07-03T21:10:21",
+    "TARGT_USER": "184",
+    "READ_COUNT": "130",
+    "READ_USER": "100",
+    "TITLE": "What A Wonderful Product!",
+    "ADD_TO_FAV_USER": "23"
+  }, {
+    "SHARE_USER": "23",
+    "ADD_TO_FAV_COUNT": "45",
+    "MSG_ID": "A000002",
+    "SHARE_COUNT": "45",
+    "REF_PROD": "1002",
+    "CREATE_DATE": "2021-07-03T21:13:08",
+    "TARGT_USER": "184",
+    "READ_COUNT": "90",
+    "READ_USER": "87",
+    "TITLE": "U WIll Like It",
+    "ADD_TO_FAV_USER": "23"
+  }, {
+    "SHARE_USER": "88",
+    "ADD_TO_FAV_COUNT": "78",
+    "MSG_ID": "A000003",
+    "SHARE_COUNT": "90",
+    "REF_PROD": "1003",
+    "CREATE_DATE": "2021-06-11T21:15:02",
+    "TARGT_USER": "184",
+    "READ_COUNT": "167",
+    "READ_USER": "150",
+    "TITLE": "We Want U!",
+    "ADD_TO_FAV_USER": "67"
+  }]
+}

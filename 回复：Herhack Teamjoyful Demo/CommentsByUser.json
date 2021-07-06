@@ -1,0 +1,15 @@
+{
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 22:06:13"
+  },
+  "data": [{
+    "MSG_ID": "A000001",
+    "OPEN_ID": "o_test000001",
+    "REF_PROD": "1001",
+    "USER_COMMENT_ID": "C0000000001",
+    "CREAT_DATE": "2021-07-03T13:18:04.000+00:00",
+    "CONTENT": "i like it."
+  }]
+}

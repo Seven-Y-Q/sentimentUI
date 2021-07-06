@@ -1,0 +1,20 @@
+export default {
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 22:03:28"
+  },
+  "data": [{
+    "MSG_ID": "A000001",
+    "TITLE": "What A Wonderful Product!",
+    "REF_PROD": "1001",
+    "TARGT_USER": "184",
+    "READ_COUNT": "130",
+    "READ_USER": "100",
+    "SHARE_COUNT": "43",
+    "SHARE_USER": "40",
+    "ADD_TO_FAV_USER": "23",
+    "ADD_TO_FAV_COUNT": "25",
+    "CREATE_DATE": "2021-07-03T21:10:21",
+  }]
+}

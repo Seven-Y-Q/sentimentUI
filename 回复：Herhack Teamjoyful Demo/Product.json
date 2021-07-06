@@ -1,0 +1,19 @@
+{
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 19:32:36"
+  },
+  "data": {
+    "product_id": "1001",
+    "product_type": "2",
+    "product_name": "INVESCO Continental European Small Cap Equity Fund(Class A)",
+    "product_detail": "The Fund aims to achieve long-term capital growth. The Fund seeks to achieve its objective by investing primarily in listed equity and equity related securities of small cap companies throughout Europe excluding the United Kingdom. For the purpose of this investment policy, Europe is intended to include all counties in the European Union, Switzerland, Norway, Turkey and the members of the Commonwealth of Independent States",
+    "market_risk": 5,
+    "liquidity_risk": 5,
+    "principle_risk": 5,
+    "inv_area": "Europe",
+    "payback_period": 5,
+    "complexity": 5
+  }
+}

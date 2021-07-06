@@ -1,0 +1,57 @@
+{
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 21:07:56"
+  },
+  "data": [{
+    "OPEN_ID": "o_test000001",
+    "CREATE_DATE": "09-6月-21 11.30.44.995000000 上午",
+    "BIND_DATE": "2021-06-09T11:30:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0001",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000002",
+    "CREATE_DATE": "07-6月-21 04.48.27.326000000 下午",
+    "BIND_DATE": "2021-06-07T16:48:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0002",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000011",
+    "CREATE_DATE": "01-6月-21 12.00.00.000000000 上午",
+    "BIND_DATE": "2019-09-25T18:16:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0011",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000020",
+    "CREATE_DATE": "01-6月-21 12.00.00.000000000 上午",
+    "BIND_DATE": "2021-05-26T19:04:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0020",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000029",
+    "CREATE_DATE": "25-6月-21 02.22.11.479000000 下午",
+    "BIND_DATE": "2021-06-25T14:22:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0029",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000038",
+    "CREATE_DATE": "01-6月-21 12.00.00.000000000 上午",
+    "BIND_DATE": "2021-05-27T14:40:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0038",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000047",
+    "CREATE_DATE": "01-6月-21 12.00.00.000000000 上午",
+    "BIND_DATE": "2021-05-10T17:41:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0047",
+    "PROD_ID": "1001"
+  }]
+}

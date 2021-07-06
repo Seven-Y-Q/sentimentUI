@@ -1,0 +1,24 @@
+// One user can have more than one product.
+
+{
+  "common": {
+    "returnCode": "ST-000",
+    "returnReason": "success",
+    "responseTime": "2021-07-03 20:59:45"
+  },
+  "data": [{
+    "OPEN_ID": "o_test000001",
+    "CREATE_DATE": "09-6月-21 11.30.44.995000000 上午",
+    "BIND_DATE": "2021-06-09T11:30:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0001",
+    "PROD_ID": "1001"
+  }, {
+    "OPEN_ID": "o_test000001",
+    "CREATE_DATE": "09-6月-21 11.30.44.995000000 上午",
+    "BIND_DATE": "2021-06-09T11:30:00",
+    "BIND_STATUS": 1,
+    "CUSTOMER_ID": "customer_0001",
+    "PROD_ID": "1003"
+  }]
+}
